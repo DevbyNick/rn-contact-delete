@@ -1,0 +1,1 @@
+"# rn-contact-delete" 
